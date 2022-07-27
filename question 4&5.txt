@@ -1,0 +1,20 @@
+Question-4
+         The best project I ever worked on was developing a chat loop. I made it using HTML, CSS, and JAVASCRIPT. It is a chat window 
+         where we can customize the font color of the message. It is a simple prototype for a word editor with multiple Functionality, along with it
+         uses stack for multiple messages
+         I considered it to be my best because learned so much while working on this project. I made a lot of mistakes while doing it, and did lot 
+         of research while implementing it.
+         website-https://saideep5.github.io/Chat-loop/
+         Github repo-https://github.com/saideep5/Chat-loop
+         
+
+Question-5
+    
+     If I were to start a software company I would take my batchmates, Drashil and Shairan alongside me. Since in any company we
+     need somone a team member who specializes in technology and development is crucial to your business’s success, especially for 
+     tech startups. as well as someone who can be at Managerial Role of the company who can plan, organize lead to increase the 
+     efficiency and effectiveness of our employees, processes, projects, and organizations as a whole. And most importantly who 
+     is a team player
+     In  my case, Darshil is someone who is very well verses at technical side and Shairan is someone who is good at the 
+     managerial role.Since I have worked with both of them and I know their strength in their respective domain. Rather 
+     than going for an unknown person with whom I haven't worked, I would like to hire people on whom I can put my faith
