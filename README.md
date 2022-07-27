@@ -1,0 +1,1 @@
+# Saideep-Somayajula-Kommunicate-Assessment
